@@ -7,7 +7,6 @@ Discord: @_negyes //
 E-mail: negyesdev@gmail.com // 
 Webpage: https://negyescodes.nicepage.io
 
-<!---
 Working on: 
 - https://negyescodes.nicepage.io
 - https://pixelitymc.hu
@@ -17,4 +16,3 @@ Working on:
 - Fortyfor Global Discord Bot
 - Discord Configurations
 - And more...
---->
