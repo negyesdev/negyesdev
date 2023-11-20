@@ -1,59 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NegyesDev - Web Developer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
+# 👋 Hi, I’m [@negyesdev](https://www.instagram.com/_negyes/)
 
-        h1 {
-            color: #333;
-        }
+👀 I’m interested in Information and Programming
 
-        p {
-            color: #555;
-        }
+🌱 I’m currently learning HTML, PHP, CSS, JavaScript, Python, and TWIG
 
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
+📫 How to reach me:
+- Insta: [@_negyes](https://www.instagram.com/_negyes/)
+- Discord: @_negyes
+- E-mail: [negyesdev@gmail.com](mailto:negyesdev@gmail.com)
+- Webpage: [negyescodes.nicepage.io](https://negyescodes.nicepage.io)
 
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
+## Projects:
 
-    <h1>👋 Hi, I’m <a href="https://www.instagram.com/_negyes/" target="_blank">@negyesdev</a></h1>
-    <p>👀 I’m interested in Information and Programming</p>
-    <p>🌱 I’m currently learning HTML, PHP, CSS, JavaScript, Python, and TWIG</p>
-    <p>📫 How to reach me:</p>
-    <ul>
-        <li>Insta: <a href="https://www.instagram.com/_negyes/" target="_blank">@_negyes</a></li>
-        <li>Discord: <a href="#" target="_blank">@_negyes</a></li>
-        <li>E-mail: <a href="mailto:negyesdev@gmail.com">negyesdev@gmail.com</a></li>
-        <li>Webpage: <a href="https://negyescodes.nicepage.io" target="_blank">negyescodes.nicepage.io</a></li>
-    </ul>
+- [negyescodes.nicepage.io](https://negyescodes.nicepage.io)
+- [pixelitymc.hu](https://pixelitymc.hu)
+- [bolt.pixelitymc.hu](https://bolt.pixelitymc.hu)
+- PixelityMC Minecraft Server
+- Lithium RolePlay Fivem Server
+- Fortyfor Global Discord Bot
+- Discord Configurations
+- And more...
 
-    <p>Working on:</p>
-    <ul>
-        <li><a href="https://negyescodes.nicepage.io" target="_blank">negyescodes.nicepage.io</a></li>
-        <li><a href="https://pixelitymc.hu" target="_blank">pixelitymc.hu</a></li>
-        <li><a href="https://bolt.pixelitymc.hu" target="_blank">bolt.pixelitymc.hu</a></li>
-        <li>PixelityMC Minecraft Server</li>
-        <li>Lithium RolePlay Fivem Server</li>
-        <li>Fortyfor Global Discord Bot</li>
-        <li>Discord Configurations</li>
-        <li>And more...</li>
-    </ul>
-
-</body>
-</html>
