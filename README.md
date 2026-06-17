@@ -8,16 +8,5 @@
 - Insta: [@_negyes](https://www.instagram.com/_negyes/)
 - Discord: @_negyes
 - E-mail: [negyesdev@gmail.com](mailto:negyesdev@gmail.com)
-- Webpage: [negyescodes.nicepage.io](https://negyescodes.nicepage.io)
-
-## Projects:
-
-- [negyescodes.nicepage.io](https://negyescodes.nicepage.io)
-- [pixelitymc.hu](https://pixelitymc.hu)
-- [bolt.pixelitymc.hu](https://bolt.pixelitymc.hu)
-- PixelityMC Minecraft Server
-- Lithium RolePlay Fivem Server
-- Fortyfor Global Discord Bot
-- Discord Configurations
-- And more...
-
+- Webpage: [https://negyesdev.hu](https://negyesdev.hu)
+- Custom Minecraft plugins: [https://genedev.hu](https://genedev.hu)
